@@ -1,0 +1,73 @@
+nohup: ignoring input
+Dash is running on http://0.0.0.0:8050/
+
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+106.222.201.114 - - [30/Dec/2024 10:24:49] code 400, message Bad request version ("3Ûæé\x0eÀ'~F÷\x00ï|\x0e\x9d¯Ç\x8arQ\x03ør@Ü\x00*")
+106.222.201.114 - - [30/Dec/2024 10:24:49] code 400, message Bad request version ('H\x91reWT\x02Å\x00,ÊÊ\x13\x01\x13\x02\x13\x03À,À+Ì©À0À/Ì¨À')
+106.222.201.114 - - [30/Dec/2024 10:24:49] code 400, message Bad request version ('$_\x1bzÊ')
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+106.196.25.48 - - [30/Dec/2024 10:31:18] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03%;9ÜGönö%¤Y\x93Q$Ý\x83ÐYÅ\x96*TW\x93Ò\\\x9c/¯J-g')
+106.196.25.48 - - [30/Dec/2024 10:31:18] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03úí\x11\x14\x98¾ÙttX')
+106.196.25.48 - - [30/Dec/2024 10:31:18] code 400, message Bad request version ('ÖÅygÈA\x9a\x00\x00\x14À')
+122.172.81.38 - - [30/Dec/2024 10:31:47] code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93êê\x00\x00\x00\x12\x00\x00\x00#\x00\x00\x003\x04ï\x04í')
+122.172.81.38 - - [30/Dec/2024 10:31:47] code 400, message Bad request version ('\x91Û|»]ÞÒ´\x8e')
+122.172.81.38 - - [30/Dec/2024 10:31:48] code 400, message Bad request version ('\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sZZ\x00\x00ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00#\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00')
+122.172.81.38 - - [30/Dec/2024 10:31:48] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x003\x04ï\x04í')
+122.172.81.38 - - [30/Dec/2024 10:32:13] code 400, message Bad request version ('\x15ªãõ\x10¶\x18ýÅ©9Á;')
+122.172.81.38 - - [30/Dec/2024 10:32:13] code 400, message Bad request version ('ýI\x97Ö')
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+122.172.81.38 - - [30/Dec/2024 10:33:13] code 400, message Bad request version ('\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÊÊ\x00\x00\x00+\x00\x07\x06')
+122.172.81.38 - - [30/Dec/2024 10:33:13] code 400, message Bad request syntax ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03¬\x95¾\x14L0séñ\x03Ó¡Á1\x88\x99®Îpg{Ý\\¾tÑÙ')
+122.172.81.38 - - [30/Dec/2024 10:33:19] code 400, message Bad request version ('4')
+122.172.81.38 - - [30/Dec/2024 10:33:19] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00+\x00\x07\x06')
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
+/home/ec2-user/Analysis/scripts/app.py:381: FutureWarning:
+
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+
